@@ -1,0 +1,22 @@
+a{
+text-decoration: none;
+}
+
+ul{
+	list-style: none;
+	}
+
+body{
+background: #141416;
+font-family: 'Gilroy';
+color: #000000; 
+line-height: 1.10909;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+*::selection{
+background: #fff;
+color: #000;
+}
